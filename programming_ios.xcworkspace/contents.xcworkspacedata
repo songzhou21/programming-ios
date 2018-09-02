@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Views-Code/Views-Code.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:/Users/songzhou/Developer/programming_ios/Views-StoryBoard/Views.xcodeproj">
    </FileRef>
 </Workspace>
