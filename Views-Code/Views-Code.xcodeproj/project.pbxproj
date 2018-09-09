@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		582156012145127800F729B9 /* TransformView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582156002145127800F729B9 /* TransformView.swift */; };
 		5839CB7D213B927F0038B28C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5839CB7C213B927F0038B28C /* AppDelegate.swift */; };
 		5839CB7F213B927F0038B28C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5839CB7E213B927F0038B28C /* ViewController.swift */; };
 		5839CB82213B927F0038B28C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5839CB80213B927F0038B28C /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		582156002145127800F729B9 /* TransformView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformView.swift; sourceTree = "<group>"; };
 		5839CB79213B927F0038B28C /* Views-Code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Views-Code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5839CB7C213B927F0038B28C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5839CB7E213B927F0038B28C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				5839CB7C213B927F0038B28C /* AppDelegate.swift */,
 				5839CB7E213B927F0038B28C /* ViewController.swift */,
+				582156002145127800F729B9 /* TransformView.swift */,
 				5839CB80213B927F0038B28C /* Main.storyboard */,
 				5839CB83213B927F0038B28C /* Assets.xcassets */,
 				5839CB85213B927F0038B28C /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				5839CB7F213B927F0038B28C /* ViewController.swift in Sources */,
 				5839CB7D213B927F0038B28C /* AppDelegate.swift in Sources */,
+				582156012145127800F729B9 /* TransformView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
